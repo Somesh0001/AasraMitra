@@ -1,31 +1,5 @@
-# Real Estate NFT DApp
+# Aasra Mitra DApp
 
-## Technology Stack & Tools
+GharBhar is an innovative NFT DApp built using Hardhat, designed to revolutionize the way we buy, sell, and trade real estate in the digital realm. As one of my initial DApp projects, GharBhar allows users to explore a diverse range of property listings represented as unique NFTs. Leveraging the power of blockchain, GharBhar ensures secure and transparent transactions, making real estate accessible and hassle-free. 
 
-- Solidity (Writing Smart Contracts & Tests)
-- Javascript (React & Testing)
-- [Hardhat](https://hardhat.org/) (Development Framework)
-- [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
-- [React.js](https://reactjs.org/) (Frontend Framework)
 
-## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/)
-
-## Setting Up
-### 1. Clone/Download the Repository
-
-### 2. Install Dependencies:
-`$ npm install`
-
-### 3. Run tests
-`$ npx hardhat test`
-
-### 4. Start Hardhat node
-`$ npx hardhat node`
-
-### 5. Run deployment script
-In a separate terminal execute:
-`$ npx hardhat run ./scripts/deploy.js --network localhost`
-
-### 7. Start frontend
-`$ npm run start`
